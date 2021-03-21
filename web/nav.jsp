@@ -23,18 +23,18 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.html" class="nav-item nav-link active">Home</a>
-                            <a href="product-list.html" class="nav-item nav-link">Products</a>
-                            <a href="product-detail.html" class="nav-item nav-link">Product Detail</a>
-                            <a href="cart.html" class="nav-item nav-link">Cart</a>
-                            <a href="checkout.html" class="nav-item nav-link">Checkout</a>
-                            <a href="my-account.html" class="nav-item nav-link">My Account</a>
+                            <a href="index.jsp" class="nav-item nav-link active">Home</a>
+                            <a href="product-list.jsp" class="nav-item nav-link">Products</a>
+                            <a href="product-detail.jsp" class="nav-item nav-link">Product Detail</a>
+                            <a href="cart.jsp" class="nav-item nav-link">Cart</a>
+                            <a href="checkout.jsp" class="nav-item nav-link">Checkout</a>
+                            <a href="my-account.jsp" class="nav-item nav-link">My Account</a>
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">More Pages</a>
                                 <div class="dropdown-menu">
-                                    <a href="wishlist.html" class="dropdown-item">Wishlist</a>
-                                    <a href="login.html" class="dropdown-item">Login & Register</a>
-                                    <a href="contact.html" class="dropdown-item">Contact Us</a>
+                                    <a href="wishlist.jsp" class="dropdown-item">Wishlist</a>
+                                    <a href="login_register.jsp" class="dropdown-item">Login & Register</a>
+                                    <a href="contact.jsp" class="dropdown-item">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -42,8 +42,8 @@
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">User Account</a>
                                 <div class="dropdown-menu">
-                                    <a href="#" class="dropdown-item">Login</a>
-                                    <a href="#" class="dropdown-item">Register</a>
+                                    <a href="login_register.jsp" class="dropdown-item">Login</a>
+                                    <a href="login_register.jsp" class="dropdown-item">Register</a>
                                 </div>
                             </div>
                         </div>

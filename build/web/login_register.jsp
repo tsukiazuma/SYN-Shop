@@ -33,7 +33,6 @@
         <jsp:include page="top-bar.jsp"></jsp:include>
         <jsp:include page="nav.jsp"></jsp:include>
         <jsp:include page="bottom-bar.jsp"></jsp:include>
-        <jsp:include page="header.jsp"></jsp:include>
         
         <!-- Breadcrumb Start -->
         <div class="breadcrumb-wrap">
