@@ -18,7 +18,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-3">
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="index.jsp">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                         </div>

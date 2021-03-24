@@ -34,36 +34,36 @@
                     <div class="col-lg-3 col-md-6 feature-col">
                         <div class="feature-content">
                             <i class="fab fa-cc-mastercard"></i>
-                            <h2>Secure Payment</h2>
+                            <h2>Thanh toán an toàn</h2>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur elit
+                                Cam đoan bảo mật giao dịch 100%
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 feature-col">
                         <div class="feature-content">
                             <i class="fa fa-truck"></i>
-                            <h2>Worldwide Delivery</h2>
+                            <h2>Giao dịch trên cả nước</h2>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur elit
+                                Mạng dưới giao dịch nhiều & nhanh trên khắp cả nước
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 feature-col">
                         <div class="feature-content">
                             <i class="fa fa-sync-alt"></i>
-                            <h2>90 Days Return</h2>
+                            <h2>Đổi trả trong 90</h2>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur elit
+                                Được phép hoàn trả trong 90 nếu không hài lòng với sản phẩm 
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 feature-col">
                         <div class="feature-content">
                             <i class="fa fa-comments"></i>
-                            <h2>24/7 Support</h2>
+                            <h2>Hỗ trợ 24/7</h2>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur elit
+                                Luôn luôn sẵn sàng hỗ trợ mọi lúc, mọi trường hợp và mọi nơi
                             </p>
                         </div>
                     </div>
@@ -130,10 +130,10 @@
             <div class="container-fluid">
                 <div class="row align-items-center">
                     <div class="col-md-6">
-                        <h1>call us for any queries</h1>
+                        <h1>Liên hệ cho chúng tôi nếu có bất kỳ thắc mắc</h1>
                     </div>
                     <div class="col-md-6">
-                        <a href="tel:0123456789">+012-345-6789</a>
+                        <a href="tel:0123456789">0333066579</a>
                     </div>
                 </div>
             </div>
@@ -144,7 +144,7 @@
         <div class="featured-product product">
             <div class="container-fluid">
                 <div class="section-header">
-                    <h1>Featured Product</h1>
+                    <h1>Sản phẩm nổi bật</h1>
                 </div>
                 <div class="row align-items-center product-slider product-slider-4">
                     <div class="col-lg-3">
@@ -297,12 +297,12 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-6">
-                        <h1>Subscribe Our Newsletter</h1>
+                        <h1>Đăng ký để nhận thông báo</h1>
                     </div>
                     <div class="col-md-6">
                         <div class="form">
-                            <input type="email" value="Your email here">
-                            <button>Submit</button>
+                            <input type="email" value="Email của bạn">
+                            <button>Gửi</button>
                         </div>
                     </div>
                 </div>
@@ -314,7 +314,7 @@
         <div class="recent-product product">
             <div class="container-fluid">
                 <div class="section-header">
-                    <h1>Recent Product</h1>
+                    <h1>Sản phẩm gần đây</h1>
                 </div>
                 <div class="row align-items-center product-slider product-slider-4">
                     <div class="col-lg-3">
@@ -469,11 +469,11 @@
                     <div class="col-md-6">
                         <div class="review-slider-item">
                             <div class="review-img">
-                                <img src="img/review-1.jpg" alt="Image">
+                                <img src="img/Son_review.jpg" alt="Image">
                             </div>
                             <div class="review-text">
-                                <h2>Customer Name</h2>
-                                <h3>Profession</h3>
+                                <h2>Phan Thanh Sơn</h2>
+                                <h3>Chuyên gia Bảo mật thông tin</h3>
                                 <div class="ratting">
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
@@ -482,7 +482,7 @@
                                     <i class="fa fa-star"></i>
                                 </div>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae nunc eget leo finibus luctus et vitae lorem
+                                    Sản phẩm tốt, đóng gói kĩ, giao hàng nhanh
                                 </p>
                             </div>
                         </div>
@@ -490,11 +490,11 @@
                     <div class="col-md-6">
                         <div class="review-slider-item">
                             <div class="review-img">
-                                <img src="img/review-2.jpg" alt="Image">
+                                <img src="img/Yen_review.jpg" alt="Image">
                             </div>
                             <div class="review-text">
-                                <h2>Customer Name</h2>
-                                <h3>Profession</h3>
+                                <h2>Mai Thị Hoàng Yến</h2>
+                                <h3>Chuyên gia Kiểm thử</h3>
                                 <div class="ratting">
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
@@ -503,7 +503,7 @@
                                     <i class="fa fa-star"></i>
                                 </div>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae nunc eget leo finibus luctus et vitae lorem
+                                    Sản phẩm chất lượng, giao hàng sớm hơn dự kiến, mình sẽ ủng hộ shop lâu dài
                                 </p>
                             </div>
                         </div>
@@ -511,11 +511,11 @@
                     <div class="col-md-6">
                         <div class="review-slider-item">
                             <div class="review-img">
-                                <img src="img/review-3.jpg" alt="Image">
+                                <img src="img/Nam_review.jpg" alt="Image">
                             </div>
                             <div class="review-text">
-                                <h2>Customer Name</h2>
-                                <h3>Profession</h3>
+                                <h2>Trần Ngọc Nam</h2>
+                                <h3>Chuyên gia Lắp ráp PC</h3>
                                 <div class="ratting">
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
@@ -524,7 +524,7 @@
                                     <i class="fa fa-star"></i>
                                 </div>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae nunc eget leo finibus luctus et vitae lorem
+                                    Sản phẩm tốt, giá thành hợp lý, chuyên nghiệp trong quá trình làm việc và hỗ trợ rất tận tình
                                 </p>
                             </div>
                         </div>

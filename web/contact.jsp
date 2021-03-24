@@ -112,7 +112,6 @@
         <!-- Contact End -->
         
         <jsp:include page="footer.jsp"></jsp:include>
-        <jsp:include page="footer-bottom.jsp"></jsp:include>
         
         <!-- Back to Top -->
         <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>

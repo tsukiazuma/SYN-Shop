@@ -18,24 +18,23 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-widget">
-                            <h2>Get in Touch</h2>
+                            <h2>Liên lạc</h2>
                             <div class="contact-info">
-                                <p><i class="fa fa-map-marker"></i>123 E Store, Los Angeles, USA</p>
-                                <p><i class="fa fa-envelope"></i>email@example.com</p>
-                                <p><i class="fa fa-phone"></i>+123-456-7890</p>
+                                <p><i class="fa fa-map-marker"></i>Khu phố 6, Đông Hòa, Dĩ An, Bình Dương</p>
+                                <p><i class="fa fa-envelope"></i>syn232012@gmail.com</p>
+                                <p><i class="fa fa-phone"></i>033066578</p>
                             </div>
                         </div>
                     </div>
                     
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-widget">
-                            <h2>Follow Us</h2>
+                            <h2>Theo dõi chúng tôi</h2>
                             <div class="contact-info">
                                 <div class="social">
                                     <a href=""><i class="fab fa-twitter"></i></a>
-                                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                    <a href=""><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.facebook.com/SYN-Shop-106479114589499/"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://www.instagram.com/syn2000_shop/"><i class="fab fa-instagram"></i></a>
                                     <a href=""><i class="fab fa-youtube"></i></a>
                                 </div>
                             </div>
