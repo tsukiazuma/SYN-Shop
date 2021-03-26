@@ -38,9 +38,9 @@
         <div class="breadcrumb-wrap">
             <div class="container-fluid">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Products</a></li>
-                    <li class="breadcrumb-item active">Checkout</li>
+                    <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+                    <li class="breadcrumb-item"><a href="#">Sản phẩm</a></li>
+                    <li class="breadcrumb-item active">Thanh toán</li>
                 </ul>
             </div>
         </div>
@@ -53,14 +53,14 @@
                     <div class="col-lg-8">
                         <div class="checkout-inner">
                             <div class="billing-address">
-                                <h2>Billing Address</h2>
+                                <h2>Địa chỉ thanh toán</h2>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <label>First Name</label>
+                                        <label>Họ</label>
                                         <input class="form-control" type="text" placeholder="First Name">
                                     </div>
                                     <div class="col-md-6">
-                                        <label>Last Name"</label>
+                                        <label>Tên</label>
                                         <input class="form-control" type="text" placeholder="Last Name">
                                     </div>
                                     <div class="col-md-6">
@@ -68,93 +68,95 @@
                                         <input class="form-control" type="text" placeholder="E-mail">
                                     </div>
                                     <div class="col-md-6">
-                                        <label>Mobile No</label>
+                                        <label>Số điện thoại</label>
                                         <input class="form-control" type="text" placeholder="Mobile No">
                                     </div>
                                     <div class="col-md-12">
-                                        <label>Address</label>
+                                        <label>Địa chỉ</label>
                                         <input class="form-control" type="text" placeholder="Address">
                                     </div>
                                     <div class="col-md-6">
-                                        <label>Country</label>
+                                        <label>Thành phố</label>
                                         <select class="custom-select">
-                                            <option selected>United States</option>
-                                            <option>Afghanistan</option>
-                                            <option>Albania</option>
-                                            <option>Algeria</option>
+                                            <option selected>Hồ Chí Minh</option>
+                                            <option>Hà Nội</option>
+                                            <option>Huế</option>
+                                            <option>Đà Nẵng</option>
+                                            <option>Nha Trang</option>
                                         </select>
                                     </div>
-                                    <div class="col-md-6">
+<!--                                    <div class="col-md-6">
                                         <label>City</label>
                                         <input class="form-control" type="text" placeholder="City">
-                                    </div>
+                                    </div>-->
                                     <div class="col-md-6">
-                                        <label>State</label>
-                                        <input class="form-control" type="text" placeholder="State">
+                                        <label>Quận / Huyện</label>
+                                        <input class="form-control" type="text" placeholder="Quận / Huyện">
                                     </div>
-                                    <div class="col-md-6">
+<!--                                    <div class="col-md-6">
                                         <label>ZIP Code</label>
                                         <input class="form-control" type="text" placeholder="ZIP Code">
-                                    </div>
+                                    </div>-->
                                     <div class="col-md-12">
                                         <div class="custom-control custom-checkbox">
                                             <input type="checkbox" class="custom-control-input" id="newaccount">
-                                            <label class="custom-control-label" for="newaccount">Create an account</label>
+                                            <label class="custom-control-label" for="newaccount">Tạo tài khoản</label>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="custom-control custom-checkbox">
                                             <input type="checkbox" class="custom-control-input" id="shipto">
-                                            <label class="custom-control-label" for="shipto">Ship to different address</label>
+                                            <label class="custom-control-label" for="shipto">Vận chuyển đến nơi khác</label>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="shipping-address">
-                                <h2>Shipping Address</h2>
+                                <h2>Địa chỉ thanh toán</h2>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <label>First Name</label>
-                                        <input class="form-control" type="text" placeholder="First Name">
+                                        <label>Họ</label>
+                                        <input class="form-control" type="text" placeholder="Họ">
                                     </div>
                                     <div class="col-md-6">
-                                        <label>Last Name"</label>
-                                        <input class="form-control" type="text" placeholder="Last Name">
+                                        <label>Tên</label>
+                                        <input class="form-control" type="text" placeholder="Tên">
                                     </div>
                                     <div class="col-md-6">
                                         <label>E-mail</label>
                                         <input class="form-control" type="text" placeholder="E-mail">
                                     </div>
                                     <div class="col-md-6">
-                                        <label>Mobile No</label>
-                                        <input class="form-control" type="text" placeholder="Mobile No">
+                                        <label>Số điện thoại</label>
+                                        <input class="form-control" type="text" placeholder="Số điện thoại">
                                     </div>
                                     <div class="col-md-12">
-                                        <label>Address</label>
-                                        <input class="form-control" type="text" placeholder="Address">
+                                        <label>Địa chỉ</label>
+                                        <input class="form-control" type="text" placeholder="Địa chỉ">
                                     </div>
                                     <div class="col-md-6">
-                                        <label>Country</label>
+                                        <label>Thành phố</label>
                                         <select class="custom-select">
-                                            <option selected>United States</option>
-                                            <option>Afghanistan</option>
-                                            <option>Albania</option>
-                                            <option>Algeria</option>
+                                            <option selected>Hồ Chí Minh</option>
+                                            <option>Hà Nội</option>
+                                            <option>Huế</option>
+                                            <option>Đà Nẵng</option>
+                                            <option>Nha Trang</option>
                                         </select>
                                     </div>
-                                    <div class="col-md-6">
+<!--                                    <div class="col-md-6">
                                         <label>City</label>
                                         <input class="form-control" type="text" placeholder="City">
-                                    </div>
+                                    </div>-->
                                     <div class="col-md-6">
-                                        <label>State</label>
-                                        <input class="form-control" type="text" placeholder="State">
+                                        <label>Quận / Huyện</label>
+                                        <input class="form-control" type="text" placeholder="Quận / Huyện">
                                     </div>
-                                    <div class="col-md-6">
+<!--                                    <div class="col-md-6">
                                         <label>ZIP Code</label>
                                         <input class="form-control" type="text" placeholder="ZIP Code">
-                                    </div>
+                                    </div>-->
                                 </div>
                             </div>
                         </div>
@@ -162,16 +164,16 @@
                     <div class="col-lg-4">
                         <div class="checkout-inner">
                             <div class="checkout-summary">
-                                <h1>Cart Total</h1>
-                                <p>Product Name<span>$99</span></p>
-                                <p class="sub-total">Sub Total<span>$99</span></p>
-                                <p class="ship-cost">Shipping Cost<span>$1</span></p>
-                                <h2>Grand Total<span>$100</span></h2>
+                                <h1>Tổng giỏ hàng</h1>
+                                <p>Tên sản phẩm<span>$99</span></p>
+                                <p class="sub-total">Tổng giá sản phẩm<span>$99</span></p>
+                                <p class="ship-cost">Phí ship<span>$1</span></p>
+                                <h2>Tổng cộng<span>$100</span></h2>
                             </div>
 
                             <div class="checkout-payment">
                                 <div class="payment-methods">
-                                    <h1>Payment Methods</h1>
+                                    <h1>Phương thức thanh toán</h1>
                                     <div class="payment-method">
                                         <div class="custom-control custom-radio">
                                             <input type="radio" class="custom-control-input" id="payment-1" name="payment">
@@ -183,7 +185,7 @@
                                             </p>
                                         </div>
                                     </div>
-                                    <div class="payment-method">
+<!--                                    <div class="payment-method">
                                         <div class="custom-control custom-radio">
                                             <input type="radio" class="custom-control-input" id="payment-2" name="payment">
                                             <label class="custom-control-label" for="payment-2">Payoneer</label>
@@ -193,8 +195,8 @@
                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt orci ac eros volutpat maximus lacinia quis diam.
                                             </p>
                                         </div>
-                                    </div>
-                                    <div class="payment-method">
+                                    </div>-->
+<!--                                    <div class="payment-method">
                                         <div class="custom-control custom-radio">
                                             <input type="radio" class="custom-control-input" id="payment-3" name="payment">
                                             <label class="custom-control-label" for="payment-3">Check Payment</label>
@@ -204,11 +206,11 @@
                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt orci ac eros volutpat maximus lacinia quis diam.
                                             </p>
                                         </div>
-                                    </div>
+                                    </div>-->
                                     <div class="payment-method">
                                         <div class="custom-control custom-radio">
                                             <input type="radio" class="custom-control-input" id="payment-4" name="payment">
-                                            <label class="custom-control-label" for="payment-4">Direct Bank Transfer</label>
+                                            <label class="custom-control-label" for="payment-4">Chuyển khoản</label>
                                         </div>
                                         <div class="payment-content" id="payment-4-show">
                                             <p>
@@ -219,7 +221,7 @@
                                     <div class="payment-method">
                                         <div class="custom-control custom-radio">
                                             <input type="radio" class="custom-control-input" id="payment-5" name="payment">
-                                            <label class="custom-control-label" for="payment-5">Cash on Delivery</label>
+                                            <label class="custom-control-label" for="payment-5">Thanh toán khi giao hàng</label>
                                         </div>
                                         <div class="payment-content" id="payment-5-show">
                                             <p>
@@ -229,7 +231,7 @@
                                     </div>
                                 </div>
                                 <div class="checkout-btn">
-                                    <button>Place Order</button>
+                                    <button>Đặt hàng</button>
                                 </div>
                             </div>
                         </div>

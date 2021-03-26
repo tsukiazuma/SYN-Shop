@@ -38,9 +38,9 @@
         <div class="breadcrumb-wrap">
             <div class="container-fluid">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Products</a></li>
-                    <li class="breadcrumb-item active">Contact</li>
+                    <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+                    <li class="breadcrumb-item"><a href="#">Sản phẩm</a></li>
+                    <li class="breadcrumb-item active">Liên hệ</li>
                 </ul>
             </div>
         </div>
@@ -52,10 +52,10 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="contact-info">
-                            <h2>Our Office</h2>
-                            <h3><i class="fa fa-map-marker"></i>123 Office, Los Angeles, CA, USA</h3>
-                            <h3><i class="fa fa-envelope"></i>office@example.com</h3>
-                            <h3><i class="fa fa-phone"></i>+123-456-7890</h3>
+                            <h2>Địa chỉ Văn phòng</h2>
+                            <h3><i class="fa fa-map-marker"></i>Khu phố 6, Đông Hòa, Dĩ An, Bình Dương</h3>
+                            <h3><i class="fa fa-envelope"></i>syn122320@gmail.com</h3>
+                            <h3><i class="fa fa-phone"></i>0333066579</h3>
                             <div class="social">
                                 <a href=""><i class="fab fa-twitter"></i></a>
                                 <a href=""><i class="fab fa-facebook-f"></i></a>
@@ -67,14 +67,14 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="contact-info">
-                            <h2>Our Store</h2>
-                            <h3><i class="fa fa-map-marker"></i>123 Store, Los Angeles, CA, USA</h3>
-                            <h3><i class="fa fa-envelope"></i>store@example.com</h3>
-                            <h3><i class="fa fa-phone"></i>+123-456-7890</h3>
+                            <h2>Địa chỉ Shop</h2>
+                            <h3><i class="fa fa-map-marker"></i>Khu phố 6, Đông Hòa, Dĩ An, Bình Dương</h3>
+                            <h3><i class="fa fa-envelope"></i>syn122320@gmail.com</h3>
+                            <h3><i class="fa fa-phone"></i>0333066579</h3>
                             <div class="social">
                                 <a href=""><i class="fab fa-twitter"></i></a>
                                 <a href=""><i class="fab fa-facebook-f"></i></a>
-                                <a href=""><i class="fab fa-linkedin-in"></i></a>
+<!--                                <a href=""><i class="fab fa-linkedin-in"></i></a>-->
                                 <a href=""><i class="fab fa-instagram"></i></a>
                                 <a href=""><i class="fab fa-youtube"></i></a>
                             </div>
@@ -85,19 +85,19 @@
                             <form>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <input type="text" class="form-control" placeholder="Your Name" />
+                                        <input type="text" class="form-control" placeholder="Họ tên" />
                                     </div>
                                     <div class="col-md-6">
-                                        <input type="email" class="form-control" placeholder="Your Email" />
+                                        <input type="email" class="form-control" placeholder="Email" />
                                     </div>
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Subject" />
+                                        <input type="text" class="form-control" placeholder="Vấn đề" />
                                 </div>
                                 <div class="form-group">
-                                    <textarea class="form-control" rows="5" placeholder="Message"></textarea>
+                                    <textarea class="form-control" rows="5" placeholder="Tin nhắn"></textarea>
                                 </div>
-                                <div><button class="btn" type="submit">Send Message</button></div>
+                                <div><button class="btn" type="submit">Gửi</button></div>
                             </form>
                         </div>
                     </div>

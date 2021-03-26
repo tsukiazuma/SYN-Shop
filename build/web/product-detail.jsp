@@ -38,9 +38,9 @@
         <div class="breadcrumb-wrap">
             <div class="container-fluid">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Products</a></li>
-                    <li class="breadcrumb-item active">Product Detail</li>
+                    <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+                    <li class="breadcrumb-item"><a href="#">Sản phẩm</a></li>
+                    <li class="breadcrumb-item active">Chi tiết sản phẩm</li>
                 </ul>
             </div>
         </div>
@@ -82,11 +82,11 @@
                                             <i class="fa fa-star"></i>
                                         </div>
                                         <div class="price">
-                                            <h4>Price:</h4>
+                                            <h4>Giá:</h4>
                                             <p>$99 <span>$149</span></p>
                                         </div>
                                         <div class="quantity">
-                                            <h4>Quantity:</h4>
+                                            <h4>Số lượng:</h4>
                                             <div class="qty">
                                                 <button class="btn-minus"><i class="fa fa-minus"></i></button>
                                                 <input type="text" value="1">
@@ -94,7 +94,7 @@
                                             </div>
                                         </div>
                                         <div class="p-size">
-                                            <h4>Size:</h4>
+                                            <h4>Kích thước:</h4>
                                             <div class="btn-group btn-group-sm">
                                                 <button type="button" class="btn">S</button>
                                                 <button type="button" class="btn">M</button>
@@ -103,7 +103,7 @@
                                             </div> 
                                         </div>
                                         <div class="p-color">
-                                            <h4>Color:</h4>
+                                            <h4>Màu:</h4>
                                             <div class="btn-group btn-group-sm">
                                                 <button type="button" class="btn">White</button>
                                                 <button type="button" class="btn">Black</button>
@@ -111,8 +111,8 @@
                                             </div> 
                                         </div>
                                         <div class="action">
-                                            <a class="btn" href="#"><i class="fa fa-shopping-cart"></i>Add to Cart</a>
-                                            <a class="btn" href="#"><i class="fa fa-shopping-bag"></i>Buy Now</a>
+                                            <a class="btn" href="#"><i class="fa fa-shopping-cart"></i>Thêm vào giỏ hàng</a>
+                                            <a class="btn" href="#"><i class="fa fa-shopping-bag"></i>Mua ngay</a>
                                         </div>
                                     </div>
                                 </div>
@@ -123,25 +123,25 @@
                             <div class="col-lg-12">
                                 <ul class="nav nav-pills nav-justified">
                                     <li class="nav-item">
-                                        <a class="nav-link active" data-toggle="pill" href="#description">Description</a>
+                                        <a class="nav-link active" data-toggle="pill" href="#description">Mô tả </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" data-toggle="pill" href="#specification">Specification</a>
+                                        <a class="nav-link" data-toggle="pill" href="#specification">Đặc điểm kỹ thuật</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" data-toggle="pill" href="#reviews">Reviews (1)</a>
+                                        <a class="nav-link" data-toggle="pill" href="#reviews">Đánh giá</a>
                                     </li>
                                 </ul>
 
                                 <div class="tab-content">
                                     <div id="description" class="container tab-pane active">
-                                        <h4>Product description</h4>
+                                        <h4>Mô tả sản phẩm</h4>
                                         <p>
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum quam ac mi viverra dictum. In efficitur ipsum diam, at dignissim lorem tempor in. Vivamus tempor hendrerit finibus. Nulla tristique viverra nisl, sit amet bibendum ante suscipit non. Praesent in faucibus tellus, sed gravida lacus. Vivamus eu diam eros. Aliquam et sapien eget arcu rhoncus scelerisque. Suspendisse sit amet neque neque. Praesent suscipit et magna eu iaculis. Donec arcu libero, commodo ac est a, malesuada finibus dolor. Aenean in ex eu velit semper fermentum. In leo dui, aliquet sit amet eleifend sit amet, varius in turpis. Maecenas fermentum ut ligula at consectetur. Nullam et tortor leo. 
                                         </p>
                                     </div>
                                     <div id="specification" class="container tab-pane fade">
-                                        <h4>Product specification</h4>
+                                        <h4>Đặc điểm ký thuật của sản phẩm</h4>
                                         <ul>
                                             <li>Lorem ipsum dolor sit amet</li>
                                             <li>Lorem ipsum dolor sit amet</li>
@@ -165,7 +165,7 @@
                                             </p>
                                         </div>
                                         <div class="reviews-submit">
-                                            <h4>Give your Review:</h4>
+                                            <h4>Nhận xét của bạn:</h4>
                                             <div class="ratting">
                                                 <i class="far fa-star"></i>
                                                 <i class="far fa-star"></i>
@@ -175,16 +175,16 @@
                                             </div>
                                             <div class="row form">
                                                 <div class="col-sm-6">
-                                                    <input type="text" placeholder="Name">
+                                                    <input type="text" placeholder="Họ tên">
                                                 </div>
                                                 <div class="col-sm-6">
                                                     <input type="email" placeholder="Email">
                                                 </div>
                                                 <div class="col-sm-12">
-                                                    <textarea placeholder="Review"></textarea>
+                                                    <textarea placeholder="Nhận xét"></textarea>
                                                 </div>
                                                 <div class="col-sm-12">
-                                                    <button>Submit</button>
+                                                    <button>Gửi</button>
                                                 </div>
                                             </div>
                                         </div>
@@ -195,7 +195,7 @@
                         
                         <div class="product">
                             <div class="section-header">
-                                <h1>Related Products</h1>
+                                <h1>Sản phẩm tương tự</h1>
                             </div>
 
                             <div class="row align-items-center product-slider product-slider-3">
@@ -223,7 +223,7 @@
                                         </div>
                                         <div class="product-price">
                                             <h3><span>$</span>99</h3>
-                                            <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Buy Now</a>
+                                            <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Mua ngay</a>
                                         </div>
                                     </div>
                                 </div>
@@ -251,7 +251,7 @@
                                         </div>
                                         <div class="product-price">
                                             <h3><span>$</span>99</h3>
-                                            <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Buy Now</a>
+                                            <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Mua ngay</a>
                                         </div>
                                     </div>
                                 </div>
@@ -279,7 +279,7 @@
                                         </div>
                                         <div class="product-price">
                                             <h3><span>$</span>99</h3>
-                                            <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Buy Now</a>
+                                            <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Mua ngay</a>
                                         </div>
                                     </div>
                                 </div>
@@ -307,7 +307,7 @@
                                         </div>
                                         <div class="product-price">
                                             <h3><span>$</span>99</h3>
-                                            <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Buy Now</a>
+                                            <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Mua ngay</a>
                                         </div>
                                     </div>
                                 </div>
@@ -335,7 +335,7 @@
                                         </div>
                                         <div class="product-price">
                                             <h3><span>$</span>99</h3>
-                                            <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Buy Now</a>
+                                            <a class="btn" href=""><i class="fa fa-shopping-cart"></i>Mua ngay</a>
                                         </div>
                                     </div>
                                 </div>
@@ -346,7 +346,7 @@
                     <!-- Side Bar Start -->
                     <div class="col-lg-4 sidebar">
                         <div class="sidebar-widget category">
-                            <h2 class="title">Category</h2>
+                            <h2 class="title">Danh mục sản phẩm</h2>
                             <nav class="navbar bg-light">
                                 <ul class="navbar-nav">
                                     <li class="nav-item">

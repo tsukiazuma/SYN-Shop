@@ -39,9 +39,9 @@
         <div class="breadcrumb-wrap">
             <div class="container-fluid">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Products</a></li>
-                    <li class="breadcrumb-item active">Wishlist</li>
+                    <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+                    <li class="breadcrumb-item"><a href="#">Sản phẩm</a></li>
+                    <li class="breadcrumb-item active">Danh sách yêu thích</li>
                 </ul>
             </div>
         </div>
@@ -57,11 +57,11 @@
                                 <table class="table table-bordered">
                                     <thead class="thead-dark">
                                         <tr>
-                                            <th>Product</th>
-                                            <th>Price</th>
-                                            <th>Quantity</th>
-                                            <th>Add to Cart</th>
-                                            <th>Remove</th>
+                                            <th>Sản phẩm</th>
+                                            <th>Giá</th>
+                                            <th>Số lượng</th>
+                                            <th>Thêm vào giỏ hàng</th>
+                                            <th>Xóa</th>
                                         </tr>
                                     </thead>
                                     <tbody class="align-middle">
@@ -80,7 +80,7 @@
                                                     <button class="btn-plus"><i class="fa fa-plus"></i></button>
                                                 </div>
                                             </td>
-                                            <td><button class="btn-cart">Add to Cart</button></td>
+                                            <td><button class="btn-cart">Thêm vào giỏ hàng</button></td>
                                             <td><button><i class="fa fa-trash"></i></button></td>
                                         </tr>
                                         <tr>
@@ -98,7 +98,7 @@
                                                     <button class="btn-plus"><i class="fa fa-plus"></i></button>
                                                 </div>
                                             </td>
-                                            <td><button class="btn-cart">Add to Cart</button></td>
+                                            <td><button class="btn-cart">Thêm vào giỏ hàng</button></td>
                                             <td><button><i class="fa fa-trash"></i></button></td>
                                         </tr>
                                         <tr>
@@ -116,7 +116,7 @@
                                                     <button class="btn-plus"><i class="fa fa-plus"></i></button>
                                                 </div>
                                             </td>
-                                            <td><button class="btn-cart">Add to Cart</button></td>
+                                            <td><button class="btn-cart">Thêm vào giỏ hàng</button></td>
                                             <td><button><i class="fa fa-trash"></i></button></td>
                                         </tr>
                                         <tr>
@@ -134,7 +134,7 @@
                                                     <button class="btn-plus"><i class="fa fa-plus"></i></button>
                                                 </div>
                                             </td>
-                                            <td><button class="btn-cart">Add to Cart</button></td>
+                                            <td><button class="btn-cart">Thêm vào giỏ hàng</button></td>
                                             <td><button><i class="fa fa-trash"></i></button></td>
                                         </tr>
                                         <tr>
@@ -152,7 +152,7 @@
                                                     <button class="btn-plus"><i class="fa fa-plus"></i></button>
                                                 </div>
                                             </td>
-                                            <td><button class="btn-cart">Add to Cart</button></td>
+                                            <td><button class="btn-cart">Thêm vào giỏ hàng</button></td>
                                             <td><button><i class="fa fa-trash"></i></button></td>
                                         </tr>
                                     </tbody>
@@ -166,7 +166,6 @@
         <!-- Wishlist End -->
         
         <jsp:include page="footer.jsp"></jsp:include>
-        <jsp:include page="footer-bottom.jsp"></jsp:include>
         
         <!-- Back to Top -->
         <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>

@@ -38,9 +38,9 @@
         <div class="breadcrumb-wrap">
             <div class="container-fluid">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Products</a></li>
-                    <li class="breadcrumb-item active">Cart</li>
+                    <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+                    <li class="breadcrumb-item"><a href="#">Sản phẩm</a></li>
+                    <li class="breadcrumb-item active">Giỏ hàng</li>
                 </ul>
             </div>
         </div>
@@ -56,11 +56,11 @@
                                 <table class="table table-bordered">
                                     <thead class="thead-dark">
                                         <tr>
-                                            <th>Product</th>
-                                            <th>Price</th>
-                                            <th>Quantity</th>
-                                            <th>Total</th>
-                                            <th>Remove</th>
+                                            <th>Sản phẩm</th>
+                                            <th>Giá</th>
+                                            <th>Số lượng</th>
+                                            <th>Tổng cộng</th>
+                                            <th>Xóa</th>
                                         </tr>
                                     </thead>
                                     <tbody class="align-middle">
@@ -164,21 +164,21 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="coupon">
-                                        <input type="text" placeholder="Coupon Code">
-                                        <button>Apply Code</button>
+                                        <input type="text" placeholder="Mã giảm giá">
+                                        <button>Áp dụng</button>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="cart-summary">
                                         <div class="cart-content">
-                                            <h1>Cart Summary</h1>
-                                            <p>Sub Total<span>$99</span></p>
-                                            <p>Shipping Cost<span>$1</span></p>
-                                            <h2>Grand Total<span>$100</span></h2>
+                                            <h1>Tổng tiền giỏ hàng</h1>
+                                            <p>Tiền sản phẩm<span>$99</span></p>
+                                            <p>Phí ship<span>$1</span></p>
+                                            <h2>Tổng cộng<span>$100</span></h2>
                                         </div>
                                         <div class="cart-btn">
-                                            <button>Update Cart</button>
-                                            <button>Checkout</button>
+                                            <button>Cập nhật giỏ hàng</button>
+                                            <button>Thanh toán</button>
                                         </div>
                                     </div>
                                 </div>

@@ -38,9 +38,9 @@
         <div class="breadcrumb-wrap">
             <div class="container-fluid">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Products</a></li>
-                    <li class="breadcrumb-item active">My Account</li>
+                    <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+                    <li class="breadcrumb-item"><a href="#">Sản phẩm</a></li>
+                    <li class="breadcrumb-item active">Tài khoản của tôi</li>
                 </ul>
             </div>
         </div>
@@ -52,18 +52,18 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="nav flex-column nav-pills" role="tablist" aria-orientation="vertical">
-                            <a class="nav-link active" id="dashboard-nav" data-toggle="pill" href="#dashboard-tab" role="tab"><i class="fa fa-tachometer-alt"></i>Dashboard</a>
-                            <a class="nav-link" id="orders-nav" data-toggle="pill" href="#orders-tab" role="tab"><i class="fa fa-shopping-bag"></i>Orders</a>
-                            <a class="nav-link" id="payment-nav" data-toggle="pill" href="#payment-tab" role="tab"><i class="fa fa-credit-card"></i>Payment Method</a>
-                            <a class="nav-link" id="address-nav" data-toggle="pill" href="#address-tab" role="tab"><i class="fa fa-map-marker-alt"></i>address</a>
-                            <a class="nav-link" id="account-nav" data-toggle="pill" href="#account-tab" role="tab"><i class="fa fa-user"></i>Account Details</a>
-                            <a class="nav-link" href="index.html"><i class="fa fa-sign-out-alt"></i>Logout</a>
+                            <a class="nav-link active" id="dashboard-nav" data-toggle="pill" href="#dashboard-tab" role="tab"><i class="fa fa-tachometer-alt"></i>Bảng điều khiển</a>
+                            <a class="nav-link" id="orders-nav" data-toggle="pill" href="#orders-tab" role="tab"><i class="fa fa-shopping-bag"></i>Đơn hàng</a>
+                            <a class="nav-link" id="payment-nav" data-toggle="pill" href="#payment-tab" role="tab"><i class="fa fa-credit-card"></i>Phương thức thanh toán</a>
+                            <a class="nav-link" id="address-nav" data-toggle="pill" href="#address-tab" role="tab"><i class="fa fa-map-marker-alt"></i>Địa chỉ</a>
+                            <a class="nav-link" id="account-nav" data-toggle="pill" href="#account-tab" role="tab"><i class="fa fa-user"></i>Thông tin tài khoản</a>
+                            <a class="nav-link" href="index.html"><i class="fa fa-sign-out-alt"></i>Đăng xuất</a>
                         </div>
                     </div>
                     <div class="col-md-9">
                         <div class="tab-content">
                             <div class="tab-pane fade show active" id="dashboard-tab" role="tabpanel" aria-labelledby="dashboard-nav">
-                                <h4>Dashboard</h4>
+                                <h4>Bảng điều khiển</h4>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum quam ac mi viverra dictum. In efficitur ipsum diam, at dignissim lorem tempor in. Vivamus tempor hendrerit finibus. Nulla tristique viverra nisl, sit amet bibendum ante suscipit non. Praesent in faucibus tellus, sed gravida lacus. Vivamus eu diam eros. Aliquam et sapien eget arcu rhoncus scelerisque.
                                 </p> 
@@ -73,12 +73,12 @@
                                     <table class="table table-bordered">
                                         <thead class="thead-dark">
                                             <tr>
-                                                <th>No</th>
-                                                <th>Product</th>
-                                                <th>Date</th>
-                                                <th>Price</th>
-                                                <th>Status</th>
-                                                <th>Action</th>
+                                                <th>Số</th>
+                                                <th>Sản phẩm</th>
+                                                <th>Ngày</th>
+                                                <th>Giá</th>
+                                                <th>Tình trạng</th>
+                                                <th>Kiểm tra</th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -111,64 +111,64 @@
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="payment-tab" role="tabpanel" aria-labelledby="payment-nav">
-                                <h4>Payment Method</h4>
+                                <h4>Phương thức thanh toán</h4>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum quam ac mi viverra dictum. In efficitur ipsum diam, at dignissim lorem tempor in. Vivamus tempor hendrerit finibus. Nulla tristique viverra nisl, sit amet bibendum ante suscipit non. Praesent in faucibus tellus, sed gravida lacus. Vivamus eu diam eros. Aliquam et sapien eget arcu rhoncus scelerisque.
                                 </p> 
                             </div>
                             <div class="tab-pane fade" id="address-tab" role="tabpanel" aria-labelledby="address-nav">
-                                <h4>Address</h4>
+                                <h4>Địa chỉ</h4>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <h5>Payment Address</h5>
-                                        <p>123 Payment Street, Los Angeles, CA</p>
-                                        <p>Mobile: 012-345-6789</p>
-                                        <button class="btn">Edit Address</button>
+                                        <h5>Địa chỉ thanh toán</h5>
+                                        <p>73B Ngô Chí Quốc, Tam Bình, Thủ Đức, Tp.Hồ Chí Minh</p>
+                                        <p>Số điện thoại: 0333066579</p>
+                                        <button class="btn">Thay đổi địa chỉ</button>
                                     </div>
                                     <div class="col-md-6">
-                                        <h5>Shipping Address</h5>
-                                        <p>123 Shipping Street, Los Angeles, CA</p>
-                                        <p>Mobile: 012-345-6789</p>
-                                        <button class="btn">Edit Address</button>
+                                        <h5>Địa chỉ giao hàng</h5>
+                                        <p>73B Ngô Chí Quốc, Tam Bình, Thủ Đức, Tp.Hồ Chí Minh</p>
+                                        <p>Số điện thoại: 0333066579</p>
+                                        <button class="btn">Thay đổi địa chỉ</button>
                                     </div>
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="account-tab" role="tabpanel" aria-labelledby="account-nav">
-                                <h4>Account Details</h4>
+                                <h4>Thông tin tài khoản</h4>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <input class="form-control" type="text" placeholder="First Name">
+                                        <input class="form-control" type="text" placeholder="Họ">
                                     </div>
                                     <div class="col-md-6">
-                                        <input class="form-control" type="text" placeholder="Last Name">
+                                        <input class="form-control" type="text" placeholder="Tên">
                                     </div>
                                     <div class="col-md-6">
-                                        <input class="form-control" type="text" placeholder="Mobile">
+                                        <input class="form-control" type="text" placeholder="Số điện thoại">
                                     </div>
                                     <div class="col-md-6">
                                         <input class="form-control" type="text" placeholder="Email">
                                     </div>
                                     <div class="col-md-12">
-                                        <input class="form-control" type="text" placeholder="Address">
+                                        <input class="form-control" type="text" placeholder="Địa chỉ">
                                     </div>
                                     <div class="col-md-12">
-                                        <button class="btn">Update Account</button>
+                                        <button class="btn">Cập nhật</button>
                                         <br><br>
                                     </div>
                                 </div>
-                                <h4>Password change</h4>
+                                <h4>Thay đổi mật khẩu</h4>
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <input class="form-control" type="password" placeholder="Current Password">
+                                        <input class="form-control" type="password" placeholder="Mật khẩu hiện tại">
                                     </div>
                                     <div class="col-md-6">
-                                        <input class="form-control" type="text" placeholder="New Password">
+                                        <input class="form-control" type="text" placeholder="Mật khẩu mới">
                                     </div>
                                     <div class="col-md-6">
-                                        <input class="form-control" type="text" placeholder="Confirm Password">
+                                        <input class="form-control" type="text" placeholder="Xác nhận mật khẩu">
                                     </div>
                                     <div class="col-md-12">
-                                        <button class="btn">Save Changes</button>
+                                        <button class="btn">Lưu thay đổi</button>
                                     </div>
                                 </div>
                             </div>

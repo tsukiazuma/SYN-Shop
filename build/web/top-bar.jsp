@@ -18,7 +18,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <i class="fa fa-envelope"></i>
-                        syn232012@gmail.com
+                        syn122320@gmail.com
                     </div>
                     <div class="col-sm-6">
                         <i class="fa fa-phone-alt"></i>

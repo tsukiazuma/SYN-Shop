@@ -43,22 +43,22 @@
 
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-widget">
-                            <h2>Company Info</h2>
+                            <h2>Thông tin Shop</h2>
                             <ul>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms & Condition</a></li>
+                                <li><a href="#">Giới thiệu</a></li>
+                                <li><a href="#">Chính sách bảo mật</a></li>
+                                <li><a href="#">Điều khoản và điều kiện</a></li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-widget">
-                            <h2>Purchase Info</h2>
+                            <h2>Thông tin mua hàng</h2>
                             <ul>
-                                <li><a href="#">Pyament Policy</a></li>
-                                <li><a href="#">Shipping Policy</a></li>
-                                <li><a href="#">Return Policy</a></li>
+                                <li><a href="#">Chính sách thanh toán</a></li>
+                                <li><a href="#">Chính sách vận chuyển</a></li>
+                                <li><a href="#">Chính sách trả hàngs</a></li>
                             </ul>
                         </div>
                     </div>
@@ -67,13 +67,13 @@
                 <div class="row payment align-items-center">
                     <div class="col-md-6">
                         <div class="payment-method">
-                            <h2>We Accept:</h2>
+                            <h2>Phương thức thanh toán:</h2>
                             <img src="img/payment-method.png" alt="Payment Method" />
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="payment-security">
-                            <h2>Secured By:</h2>
+                            <h2>Được đảm bảo bởi:</h2>
                             <img src="img/godaddy.svg" alt="Payment Security" />
                             <img src="img/norton.svg" alt="Payment Security" />
                             <img src="img/ssl.svg" alt="Payment Security" />

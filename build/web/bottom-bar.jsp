@@ -25,7 +25,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="search">
-                            <input type="text" placeholder="Search">
+                            <input type="text" placeholder="Tìm kiếm">
                             <button><i class="fa fa-search"></i></button>
                         </div>
                     </div>

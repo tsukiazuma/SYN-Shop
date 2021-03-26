@@ -38,9 +38,9 @@
         <div class="breadcrumb-wrap">
             <div class="container-fluid">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Products</a></li>
-                    <li class="breadcrumb-item active">Product List</li>
+                    <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+                    <li class="breadcrumb-item"><a href="#">Sản phẩm</a></li>
+                    <li class="breadcrumb-item active">Danh sách sản phẩm</li>
                 </ul>
             </div>
         </div>
@@ -57,18 +57,18 @@
                                     <div class="row">
                                         <div class="col-md-4">
                                             <div class="product-search">
-                                                <input type="email" value="Search">
+                                                <input type="email" value="Tìm kiếm">
                                                 <button><i class="fa fa-search"></i></button>
                                             </div>
                                         </div>
                                         <div class="col-md-4">
                                             <div class="product-short">
                                                 <div class="dropdown">
-                                                    <div class="dropdown-toggle" data-toggle="dropdown">Product short by</div>
+                                                    <div class="dropdown-toggle" data-toggle="dropdown">Sắp xếp</div>
                                                     <div class="dropdown-menu dropdown-menu-right">
-                                                        <a href="#" class="dropdown-item">Newest</a>
-                                                        <a href="#" class="dropdown-item">Popular</a>
-                                                        <a href="#" class="dropdown-item">Most sale</a>
+                                                        <a href="#" class="dropdown-item">Mới nhất</a>
+                                                        <a href="#" class="dropdown-item">Phổ biến nhất</a>
+                                                        <a href="#" class="dropdown-item">Bán chạy nhất</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -76,18 +76,16 @@
                                         <div class="col-md-4">
                                             <div class="product-price-range">
                                                 <div class="dropdown">
-                                                    <div class="dropdown-toggle" data-toggle="dropdown">Product price range</div>
+                                                    <div class="dropdown-toggle" data-toggle="dropdown">Giá sản phẩm</div>
                                                     <div class="dropdown-menu dropdown-menu-right">
-                                                        <a href="#" class="dropdown-item">$0 to $50</a>
-                                                        <a href="#" class="dropdown-item">$51 to $100</a>
-                                                        <a href="#" class="dropdown-item">$101 to $150</a>
-                                                        <a href="#" class="dropdown-item">$151 to $200</a>
-                                                        <a href="#" class="dropdown-item">$201 to $250</a>
-                                                        <a href="#" class="dropdown-item">$251 to $300</a>
-                                                        <a href="#" class="dropdown-item">$301 to $350</a>
-                                                        <a href="#" class="dropdown-item">$351 to $400</a>
-                                                        <a href="#" class="dropdown-item">$401 to $450</a>
-                                                        <a href="#" class="dropdown-item">$451 to $500</a>
+                                                        <a href="#" class="dropdown-item">0 - 100.000₫</a>
+                                                        <a href="#" class="dropdown-item">100.000 - 500.000₫</a>
+                                                        <a href="#" class="dropdown-item">500.000 - 1.000.000₫</a>
+                                                        <a href="#" class="dropdown-item">1.000.000 - 2.000.000₫</a>
+                                                        <a href="#" class="dropdown-item">2.000.000 - 5.000.000₫</a>
+                                                        <a href="#" class="dropdown-item">5.000.000 - 10.000.000₫</a>
+                                                        <a href="#" class="dropdown-item">10.000.000 - 20.000.000₫</a>
+                                                        <a href="#" class="dropdown-item">  Trên 20.000.000₫</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -355,13 +353,13 @@
                             <nav aria-label="Page navigation example">
                                 <ul class="pagination justify-content-center">
                                     <li class="page-item disabled">
-                                        <a class="page-link" href="#" tabindex="-1">Previous</a>
+                                        <a class="page-link" href="#" tabindex="-1">Trước</a>
                                     </li>
                                     <li class="page-item active"><a class="page-link" href="#">1</a></li>
                                     <li class="page-item"><a class="page-link" href="#">2</a></li>
                                     <li class="page-item"><a class="page-link" href="#">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link" href="#">Next</a>
+                                        <a class="page-link" href="#">Sau</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -372,7 +370,7 @@
                     <!-- Side Bar Start -->
                     <div class="col-lg-4 sidebar">
                         <div class="sidebar-widget category">
-                            <h2 class="title">Category</h2>
+                            <h2 class="title">Thể loại</h2>
                             <nav class="navbar bg-light">
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
@@ -478,7 +476,7 @@
                         </div>
                         
                         <div class="sidebar-widget brands">
-                            <h2 class="title">Our Brands</h2>
+                            <h2 class="title">Thương hiệu của chúng tôi</h2>
                             <ul>
                                 <li><a href="#">Nulla </a><span>(45)</span></li>
                                 <li><a href="#">Curabitur </a><span>(34)</span></li>
@@ -490,7 +488,7 @@
                         </div>
                         
                         <div class="sidebar-widget tag">
-                            <h2 class="title">Tags Cloud</h2>
+                            <h2 class="title">Liên quan</h2>
                             <a href="#">Lorem ipsum</a>
                             <a href="#">Vivamus</a>
                             <a href="#">Phasellus</a>

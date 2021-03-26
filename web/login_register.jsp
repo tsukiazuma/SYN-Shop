@@ -38,9 +38,9 @@
         <div class="breadcrumb-wrap">
             <div class="container-fluid">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Products</a></li>
-                    <li class="breadcrumb-item active">Login & Register</li>
+                    <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+                    <li class="breadcrumb-item"><a href="#">Sản phẩm</a></li>
+                    <li class="breadcrumb-item active">Đăng nhập & Đăng ký</li>
                 </ul>
             </div>
         </div>
@@ -54,31 +54,31 @@
                         <div class="register-form">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <label>First Name</label>
-                                    <input class="form-control" type="text" placeholder="First Name">
+                                    <label>Họ</label>
+                                    <input class="form-control" type="text" placeholder="Họ">
                                 </div>
                                 <div class="col-md-6">
-                                    <label>Last Name"</label>
-                                    <input class="form-control" type="text" placeholder="Last Name">
+                                    <label>Tên</label>
+                                    <input class="form-control" type="text" placeholder="Tên">
                                 </div>
                                 <div class="col-md-6">
                                     <label>E-mail</label>
                                     <input class="form-control" type="text" placeholder="E-mail">
                                 </div>
                                 <div class="col-md-6">
-                                    <label>Mobile No</label>
-                                    <input class="form-control" type="text" placeholder="Mobile No">
+                                    <label>Số điện thoại</label>
+                                    <input class="form-control" type="text" placeholder="Số điện thoại">
                                 </div>
                                 <div class="col-md-6">
-                                    <label>Password</label>
-                                    <input class="form-control" type="text" placeholder="Password">
+                                    <label>Mật khẩu</label>
+                                    <input class="form-control" type="text" placeholder="Mật khẩu">
                                 </div>
                                 <div class="col-md-6">
-                                    <label>Retype Password</label>
-                                    <input class="form-control" type="text" placeholder="Password">
+                                    <label>Nhập lại mật khẩu</label>
+                                    <input class="form-control" type="text" placeholder="Nhập lại mật khẩu">
                                 </div>
                                 <div class="col-md-12">
-                                    <button class="btn">Submit</button>
+                                    <button class="btn">Đăng ký</button>
                                 </div>
                             </div>
                         </div>
@@ -87,21 +87,21 @@
                         <div class="login-form">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <label>E-mail / Username</label>
-                                    <input class="form-control" type="text" placeholder="E-mail / Username">
+                                    <label>E-mail</label>
+                                    <input class="form-control" type="text" placeholder="E-mail">
                                 </div>
                                 <div class="col-md-6">
-                                    <label>Password</label>
-                                    <input class="form-control" type="text" placeholder="Password">
+                                    <label>Mật khẩu</label>
+                                    <input class="form-control" type="text" placeholder="Mật khẩu">
                                 </div>
                                 <div class="col-md-12">
                                     <div class="custom-control custom-checkbox">
                                         <input type="checkbox" class="custom-control-input" id="newaccount">
-                                        <label class="custom-control-label" for="newaccount">Keep me signed in</label>
+                                        <label class="custom-control-label" for="newaccount">Lưu mật khẩu</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
-                                    <button class="btn">Submit</button>
+                                    <button class="btn">Đăng nhập</button>
                                 </div>
                             </div>
                         </div>
